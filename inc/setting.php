@@ -62,7 +62,7 @@ function poi_player_options_code(){ ?>
       <p>专辑：http://music.163.com/#/album?id=<code>2857009</code>（数字即为专辑ID）</p>
       <p>以上两种作为类型的识别链接，自行到网易云音乐挑选歌单或专辑</p>
       <hr>
-      <p>Poi Player 版本<?php echo POI_VERSION; ?> 最后更新于2016.12.12 @Louie</p>
+      <p>Poi Player 版本<?php echo POI_VERSION; ?> 最后更新于2017.06.10 @Louie</p>
       </div>
     </div>
   </div>
